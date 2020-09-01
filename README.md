@@ -11,7 +11,8 @@ dataset(csv,excel,etc.) and target column as input.
 1. Shape of the dataset <br>
 2. DataType of columns <br>
 3. Problem Type (Classification / Regression)<br>
-4. Target Column visualization (Pie & Bar graphs) to check if it has imbalance class.<br>
+4. Target Column visualization (Pie & Bar graphs) to check if it has imbalance class.<br> 
+![GitHub Logo](/Screenshots/Target_viz.PNG)
 5. Univariate Analysis (Tells about distribution and presence of outliers if any)<br>
     1. Box Plot
     2. Histogram
