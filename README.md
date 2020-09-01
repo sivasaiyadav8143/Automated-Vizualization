@@ -18,7 +18,7 @@ dataset(csv,excel,etc.) and target column as input.
     3. Distribution
 6. Bivariate Analysis
     1. Density Plot for Classification Problem
-       . Tells how each feature <br>
+       . Tells you whether a feature is poor/weak/good predictor <br>
        ![GitHub Logo](/Screenshots/DensityPlot.PNG)
     2. Scatter Plot for Regression Problem
 7. Multivariate Analysis
