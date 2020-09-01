@@ -33,9 +33,9 @@ dataset(csv,excel,etc.) and target column as input.
    **Lists out all the features those are below threshold value**<br>
 ![GitHub Logo](/Screenshots/list_corr.PNG)<br>
 ### 7. Missing Value Analysis<br>
-   **1. Missing Table**  
+   **1. Missing Table**<br>
 ![GitHub Logo](/Screenshots/miss_table.PNG)<br>
-    **2. Missing Bar**
+    **2. Missing Bar**<br>
 ![GitHub Logo](/Screenshots/miss_bar.PNG)<br>
     **3. Missing Matrix**
 ![GitHub Logo](/Screenshots/miss_matrix.PNG)<br>
