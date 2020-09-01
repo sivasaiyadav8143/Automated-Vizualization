@@ -19,7 +19,7 @@ dataset(csv,excel,etc.) and target column as input.
 6. Bivariate Analysis
     1. Density Plot for Classification Problem
        . Tells how each feature <br>
-       ![GitHub Logo](/images/logo.png)
+       ![GitHub Logo](/Screenshots/DensityPlot.PNG)
     2. Scatter Plot for Regression Problem
 7. Multivariate Analysis
     1. Correlation Matrix
